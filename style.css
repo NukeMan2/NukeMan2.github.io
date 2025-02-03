@@ -1,29 +1,15 @@
-/* styles.css */
-
-/* Style général pour le conteneur */
-.container {
-    text-align: center;
-    margin-top: 50px;
-}
-
-/* Style pour le titre */
-h1 {
-    color: #333;
-    font-family: Arial, sans-serif;
-}
-
-/* Style pour le bouton */
-#myButton {
-    padding: 10px 20px;
-    font-size: 16px;
-    color: white;
-    background-color: #007BFF;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-}
-
-/* Effet au survol du bouton */
-#myButton:hover {
-    background-color: #0056b3;
-}
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Domaine</title>
+    <!-- Lien vers la feuille de style CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Bonjour, vous êtes sur mon domaine</h1>
+    </div>
+</body>
+</html>
