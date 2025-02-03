@@ -1,15 +1,17 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mon Domaine</title>
-    <!-- Lien vers la feuille de style CSS -->
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <div class="container">
-        <h1>Bonjour, vous êtes sur mon domaine</h1>
-    </div>
-</body>
-</html>
+/* styles.css */
+
+/* Style général pour le conteneur */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Hauteur totale de la vue */
+}
+
+/* Style pour le titre */
+h1 {
+    font-size: 3em; /* Taille de police plus grande */
+    color: #333;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
