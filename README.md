@@ -2,8 +2,8 @@
 
 Explication du code
 HTML :
-Nous avons ajouté un paragraphe (<p>) pour introduire le contenu.
-Un lien (<a>) avec une image (<img>) pointant vers le site de Wild Code School.
+Nous avons ajouté un paragraphe (< p >) pour introduire le contenu.
+Un lien (< a >) avec une image (< img >) pointant vers le site de Wild Code School.
 Un autre lien texte simple pointant vers le même site.
 Un pied de page (<footer>) avec un message de copyright.
 CSS :
